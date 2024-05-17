@@ -1,21 +1,13 @@
 # Create Token
-This Solidity program is a "Create a Token" program that demonstrates the basic syntax and functionality of the Solidity programming language. 
+This is a Solidity program that showcases the fundamental syntax and functionality of Solidity 
 
 ## Description
-This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. 
-The contract has a function that create your own token.
+This program and contract is written in Solidity which is a language for developing Ethereum blockchain smart contracts. The contracts include a function to create a custom token
 
 ## Executing Program
-To run this program, we can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
+We can use Remix as Solidity IDE to execute the program. Compile the code using the Solidity Compiler tab. Deploy the contract using the "Deploy & Run Transactions" tab.
 
-To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.4" (or another compatible version), 
-and then click on the "Compile HelloWorld.sol" button.
-
-Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. 
-
-Once the contract is deployed, you can interact with it by first putting a value then copy the account address. Next is going to the mint function by pasting the account adress that you copy.
-Then put a value in mint function then transact. Next step is checking the balance how much do you have. lastly, is same procedure with mint fucntion by pasting the address and put a value of how much you will deduct your current balance.
-After that we can now test the program that you created. 
+We'll use the contract by copying the account address and entering a value. Paste the address into the mind function, add a desired value, and click transact. Look at the balance, then use the burn function to deduct your balance by pasting the address and the amoun you want to reduce. After that, you can now try out the program
 
 ##Author
 Maria Evangeline Y. Hachac
